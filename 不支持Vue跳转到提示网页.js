@@ -1,4 +1,3 @@
-<script type=text/javascript>
 (function () {
   var version = ieVer();
   if (version < 9) {
@@ -19,4 +18,3 @@
     return Infinity;
   }
 })();
-</script>
